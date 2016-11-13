@@ -1745,6 +1745,10 @@
 		line-height: 1.75em;
 	}
 
+	.project-header {
+		text-align: center;
+	}
+
 /* Form */
 
 	form {
