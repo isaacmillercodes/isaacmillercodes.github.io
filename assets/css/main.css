@@ -2682,7 +2682,7 @@
 	#banner {
 		background-color: #f6f6f6;
 		background-attachment: scroll,								fixed;
-		background-image: url("images/overlay.png"), url("../../images/blurry.jpg");
+		background-image: url("images/overlay.png"), url("../../images/wall.jpg");
 		background-position: top left,							center center;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								cover;
